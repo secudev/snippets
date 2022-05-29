@@ -61,4 +61,24 @@
 	</build>
 
 
+	<modules>
+		<module>?</module>
+		<module>jpa</module>
+		<module>cache</module>
+		<module>custom-acl</module>
+		<module>datatables</module>
+		<module>events</module>
+		<module>file-ops</module>
+		<module>fullback</module>
+		<module>jasper</module>
+		<module>jms</module>
+		<module>keycloack</module>
+		<module>liquibase</module>
+		<module>mailing</module>
+		<module>mvc</module>
+		<module>rest-api</module>
+		<module>rest-client</module>
+		<module>sba</module>
+		<module>security</module>
+	</modules>
 </project>
